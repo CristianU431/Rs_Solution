@@ -1,0 +1,6 @@
+<resources>
+    <style name="estilocalificacion"
+            parent="android:style/Widget.Material.RatingBar.Indicator">
+
+    </style>
+</resources>
